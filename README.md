@@ -5,6 +5,4 @@ exe which replaces GTAVLauncher.exe (skips the rgl/steam/egs launchers) and laun
 ## How to build
 * select Release x64 in visual studio 2022
 * build the exe
-* copy into game folder
-* remove GTAVLauncher.exe
-* replace with your exe
+* replace GTAVLauncher.exe in the game folder with your built exe file
