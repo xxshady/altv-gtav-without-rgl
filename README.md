@@ -1,3 +1,5 @@
+## ⚠️ Since alt:V 15.0 this way for running multiple alt:V client instances doesn't work
+
 # altv-gtav-without-rgl
 <p align="center">
 <img width="250px" src="https://user-images.githubusercontent.com/54737754/208138368-bdab7fbb-92ef-41c7-95bd-561d3f7ec296.gif"/>
